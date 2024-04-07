@@ -14,7 +14,7 @@ This app runs the fs module creating a Stream to read a .csv file, and parses it
 - use the `npm run generate-json` command to generate your file. Make sure to change the name of the `file` variable inside the `index.js` file, depending on what do you want to parse.
 - use the `npm run dev` to have your server running and go to [localhost:4200/](localhost:4200/) to view your data.
 
-If you want to use similir kind of data to the one In this app, you can find it [here](https://github.com/datablist/sample-csv-files?tab=readme-ov-file).
+If you want to use similar kind of data to the one In this app, you can find it [here](https://github.com/datablist/sample-csv-files?tab=readme-ov-file).
 
 ## Notes
 
